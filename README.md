@@ -1,2 +1,0 @@
-# CAI
-proyecto catálogo web
